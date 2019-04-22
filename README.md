@@ -1,8 +1,7 @@
 # Lokerku
 
 Nama Anggota :
-Indah Amalia            (1655061006)
-Zhafira Intafuji Aziz   (1655061009)
+Indah Amalia (1655061006), Zhafira Intafuji Aziz (1655061009)
 
 Deskripsi Aplikasi :
 Lokerku, merupakan Aplikasi lowongan kerja bersifat freelance yang diutamakan untuk Mahasiswa/sederajat.
